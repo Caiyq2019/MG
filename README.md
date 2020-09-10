@@ -1,5 +1,5 @@
-# MG Training
-A Pytorch implementations of 'Maximum Gaussianality Training' for author's article ["Deep Speaker Vector Normalization with Maximum Gaussianality Training"](https://arxiv.……)
+# MG Training (Maximum Gaussianality Training)
+A Pytorch implementations of MG training for author's article ["Deep Speaker Vector Normalization with Maximum Gaussianality Training"](https://arxiv.……)
 
 ## Datasets
 ```bash
