@@ -9,7 +9,7 @@ testset: SITW, CNCeleb
 Following this [link](https://pan.baidu.com/s/1NZXZhKbrJUk75FDD4_p6PQ) to download the dataset 
 (extraction code：8xwe)
 
-## Run DNF with ML training
+## Run DNF with ML training (original [DNF](https://github.com/Caiyq2019/Deep-normalization-for-speaker-vectors) model )
 ```bash
 ./run_ML.sh
 ```
