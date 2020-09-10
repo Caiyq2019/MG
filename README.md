@@ -1,5 +1,6 @@
 # MG Training (Maximum Gaussianality Training)
 A Pytorch implementations of MG training for author's article ["Deep Speaker Vector Normalization with Maximum Gaussianality Training"](https://arxiv.……)
+This is a general Gaussian distribution training method and can be used in any task that requires Gaussian distribution in latent space. 
 
 ## Datasets
 ```bash
