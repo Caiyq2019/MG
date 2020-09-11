@@ -251,7 +251,7 @@ if __name__ == "__main__":
       print(time.asctime( time.localtime(time.time()) ))
       train(epoch)
       #save model to checkpoint
-      if epoch % 10 == 0:
+      if epoch % 5 == 0:
         print("saving model to ./chkpt/model_epoch%d.pt"%(epoch))
         torch.save(model.state_dict(), './chkpt/model_epoch{}.pt'.format(epoch))
         
